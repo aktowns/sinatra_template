@@ -5,6 +5,7 @@ source "http://gems.rubyforge.org"
 source :gemcutter
 source "http://gemcutter.org"
 
+gem "rake", "~>0.9.2.2"
 gem "rack",  "~>1.3"
 gem "thin",  "~>1.2"
 gem "sinatra", "~>1.3"
